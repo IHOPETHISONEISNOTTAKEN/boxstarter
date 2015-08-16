@@ -1,0 +1,4 @@
+Disable-UAC
+Enable-MicrosoftUpdate
+Install-WindowsUpdate -Full
+Enable-UAC
